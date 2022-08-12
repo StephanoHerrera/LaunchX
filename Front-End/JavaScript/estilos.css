@@ -1,0 +1,17 @@
+#pokedex {
+    width: 300px;
+    border-style:ridge;
+    border-radius: 5px;
+background-color: rgb(182, 22, 22);
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 25px;
+text-align: center;
+}
+
+img{
+    background-color: greenyellow;
+    border-radius: 50px;
+    border-style: dotted;
+    box-shadow: 10px 10px darkred;
+}
